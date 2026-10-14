@@ -569,15 +569,15 @@ if (ua.includes("Locket")) {
                 ]
             },
             {
-                section: "🎨 Decorative by Duy Vinh",
+                section: "🎨 Decorative by Pham Nam",
                 items: [
                     {
-                        overlay_id: "caption:duyvinh09",
+                        overlay_id: "caption:PhamNam09",
                         source: "remote",
                         caption: {
                             background: { colors: ["#B8E7FF", "#A8F5D0", "#DCCBFF"] },
                             max_lines: 1,
-                            text: "💻 duyvinh09",
+                            text: "💻 Dev Pham Nam 09",
                             text_color: "#183153",
                             type: "static_content"
                         }
