@@ -1541,7 +1541,7 @@ if (ua.includes("Locket")) {
                         source: "remote",
                         caption: {
                             background: { colors: ["#1C5D99", "#1DA6DD"] },
-                            icon: { data: "✌", type: "emoji" },
+                            icon: { data: "💖", type: "emoji" },
                             max_lines: 1,
                             text: "Thủ lĩnh wibu",
                             text_color: "#FFFFFFE6",
@@ -1573,11 +1573,11 @@ if (ua.includes("Locket")) {
                         }
                     },
                     {
-                        overlay_id: "caption:anh_thu_mms",
+                        overlay_id: "caption:anh_thu",
                         source: "remote",
                         caption: {
                             background: { colors: ["#FF5FA2", "#FF85B3"] },
-                            icon: { data: "💖", type: "emoji" },
+                            icon: { data: "✌", type: "emoji" },
                             max_lines: 1,
                             text: "anhthuw^^",
                             text_color: "#BFD6E0",
@@ -1585,7 +1585,7 @@ if (ua.includes("Locket")) {
                         }
                     },
                     {
-                        overlay_id: "caption:hihi_do_ngoc92",
+                        overlay_id: "caption:hihi_dongoc",
                         source: "remote",
                         caption: {
                             background: { colors: ["#FF0088", "#FF85B3"] },
