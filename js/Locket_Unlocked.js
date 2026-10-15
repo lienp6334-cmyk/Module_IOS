@@ -1574,7 +1574,7 @@ if (ua.includes("Locket")) {
                     },
                     {
                         overlay_id: "caption:anh_thu_mms",
-                        soucer: "remote",
+                        source: "remote",
                         caption: {
                             background: { colors: ["#FF5FA2", "#FF85B3"] },
                             icon: { data: "💖", type: "emoji" },
@@ -1586,7 +1586,7 @@ if (ua.includes("Locket")) {
                     },
                     {
                         overlay_id: "caption:hihi_do_ngoc92",
-                        soucer: "remote",
+                        source: "remote",
                         caption: {
                             background: { colors: ["#FF0088", "#FF85B3"] },
                             icon: { data: "🤦‍♂️", type: "emoji" },
