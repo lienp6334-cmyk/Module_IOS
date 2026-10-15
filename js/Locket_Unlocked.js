@@ -1528,7 +1528,7 @@ if (ua.includes("Locket")) {
                         overlay_id: "caption:Cus_by_PhamBaoNam",
                         source: "remote",
                         caption: {
-                            background: { colors: ["#0F2027", "#2C5364"] },
+                            background: { colors: ["#3885A6", "#2C5364"] },
                             icon: { data: "✔", type: "emoji" },
                             max_lines: 1,
                             text: "Chan Bố Mày Đi",
@@ -1580,7 +1580,7 @@ if (ua.includes("Locket")) {
                             icon: { data: "💖", type: "emoji" },
                             max_lines: 1,
                             text: "anhthuw^^",
-                            text_color: "#FFFFFF",
+                            text_color: "#BFD6E0",
                             type: "static_content"
                         }
                     },
@@ -1592,7 +1592,7 @@ if (ua.includes("Locket")) {
                             icon: { data: "🤦‍♂️", type: "emoji" },
                             max_lines: 1,
                             text: "Chiến Đo",
-                            text_color: "#FFFFFF",
+                            text_color: "#C1ECFE",
                             type: "static_content"
                         }
                     }
