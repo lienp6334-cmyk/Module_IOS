@@ -1573,11 +1573,11 @@ if (ua.includes("Locket")) {
                         }
                     },
                     {
-                        overlay_id: "caption:anh_thu",
+                        overlay_id: "caption:anh_thu_mms",
                         soucer: "remote",
                         caption: {
                             background: { colors: ["#FF5FA2", "#FF85B3"] },
-                            icon: { data: "❤", type: "emoji" },
+                            icon: { data: "💖", type: "emoji" },
                             max_lines: 1,
                             text: "anhthuw^^",
                             text_color: "#FFFFFF",
@@ -1585,10 +1585,10 @@ if (ua.includes("Locket")) {
                         }
                     },
                     {
-                        overlay_id: "caption:hihi_do_ngoc",
+                        overlay_id: "caption:hihi_do_ngoc92",
                         soucer: "remote",
                         caption: {
-                            background: { colors: ["#FF5FA2", "#FF85B3"] },
+                            background: { colors: ["#FF0088", "#FF85B3"] },
                             icon: { data: "🤦‍♂️", type: "emoji" },
                             max_lines: 1,
                             text: "Chiến Đo",
