@@ -1520,6 +1520,83 @@ if (ua.includes("Locket")) {
                         }
                     }
                 ]
+            },
+            {
+                section: "Dev by Pham Nam VIP",
+                items: [
+                    {
+                        overlay_id: "caption:Cus_by_PhamBaoNam",
+                        source: "remote",
+                        caption: {
+                            background: { colors: ["#0F2027", "#2C5364"] },
+                            icon: { data: "✔", type: "emoji" },
+                            max_lines: 1,
+                            text: "Chan Bố Mày Đi",
+                            text_color: "#2C2854",
+                            type: "static_content"
+                        }
+                    },
+                    {
+                        overlay_id: "caption:haha_vip",
+                        source: "remote",
+                        caption: {
+                            background: { colors: ["#1C5D99", "#1DA6DD"] },
+                            icon: { data: "✌", type: "emoji" },
+                            max_lines: 1,
+                            text: "Thủ lĩnh wibu",
+                            text_color: "#FFFFFFE6",
+                            type: "static_content"
+                        }
+                    },
+                    {
+                        overlay_id: "caption:WIbu anime",
+                        source: "remote",
+                        caption: {
+                            background: { colors: ["#141E30", "#355C7D"] },
+                            icon: { data: "👍", type: "emoji" },
+                            max_lines: 1,
+                            text: "Học Bá AOV",
+                            text_color: "#FFFFFF",
+                            type: "static_content"
+                        }
+                    },
+                    {
+                        overlay_id: "caption:anh_la_ba_vuong",
+                        source: "remote",
+                        caption: {
+                            background: { colors: ["#0575E6", "#00F2FE"] },
+                            icon: { data: "🌹", type: "emoji" },
+                            max_lines: 1,
+                            text: "Hết tiền :<",
+                            text_color: "#FFFFFF",
+                            type: "static_content"
+                        }
+                    },
+                    {
+                        overlay_id: "caption:anh_thu",
+                        soucer: "remote",
+                        caption: {
+                            background: { colors: ["#FF5FA2", "#FF85B3"] },
+                            icon: { data: "❤", type: "emoji" },
+                            max_lines: 1,
+                            text: "anhthuw^^",
+                            text_color: "#FFFFFF",
+                            type: "static_content"
+                        }
+                    },
+                    {
+                        overlay_id: "caption:hihi_do_ngoc",
+                        soucer: "remote",
+                        caption: {
+                            background: { colors: ["#FF5FA2", "#FF85B3"] },
+                            icon: { data: "🤦‍♂️", type: "emoji" },
+                            max_lines: 1,
+                            text: "Chiến Đo",
+                            text_color: "#FFFFFF",
+                            type: "static_content"
+                        }
+                    }
+                ]
             }
         ])
     });
