@@ -1528,7 +1528,7 @@ if (ua.includes("Locket")) {
                         overlay_id: "caption:Cus_by_PhamBaoNam",
                         source: "remote",
                         caption: {
-                            background: { colors: ["#3885A6", "#2C5364"] },
+                            background: { colors: ["#0F2027", "#2C5364"] },
                             icon: { data: "✔", type: "emoji" },
                             max_lines: 1,
                             text: "Chan Bố Mày Đi",
@@ -1543,7 +1543,7 @@ if (ua.includes("Locket")) {
                             background: { colors: ["#1C5D99", "#1DA6DD"] },
                             icon: { data: "💖", type: "emoji" },
                             max_lines: 1,
-                            text: "Trang wibu",
+                            text: "Bá vương wibu",
                             text_color: "#FFFFFFE6",
                             type: "static_content"
                         }
@@ -1567,7 +1567,7 @@ if (ua.includes("Locket")) {
                             background: { colors: ["#0575E6", "#00F2FE"] },
                             icon: { data: "🤷", type: "emoji" },
                             max_lines: 1,
-                            text: "Độc thân vui tính :<",
+                            text: "Độc thân không vui tính hahahaha",
                             text_color: "#FFFFFF",
                             type: "static_content"
                         }
@@ -1577,9 +1577,9 @@ if (ua.includes("Locket")) {
                         source: "remote",
                         caption: {
                             background: { colors: ["#FF5FA2", "#FF85B3"] },
-                            icon: { data: "✌", type: "emoji" },
+                            icon: { data: "💫", type: "emoji" },
                             max_lines: 1,
-                            text: "changtoo~",
+                            text: "Ảo ma canada",
                             text_color: "#BFD6E0",
                             type: "static_content"
                         }
@@ -1591,7 +1591,7 @@ if (ua.includes("Locket")) {
                             background: { colors: ["#FF0088", "#FF85B3"] },
                             icon: { data: "🤦‍♂️", type: "emoji" },
                             max_lines: 1,
-                            text: "chang mu hee 😉",
+                            text: "Na ní",
                             text_color: "#C1ECFE",
                             type: "static_content"
                         }
