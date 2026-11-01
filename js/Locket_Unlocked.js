@@ -56,7 +56,7 @@ if (ua.includes("Locket")) {
                 {
                     title: "Nhớ theo dõi kênh tiktok @used222999",
                     body: "Tài khoản đã full Locket Gold Premium. Flex với hội bạn thôi nào 🔥",
-                    imageURL: "https://i.ibb.co/rGfq2Yt1/logobaner.png"
+                    imageURL: "https://i.ibb.co/fm6qj16/bbf.jpg"
                 }
             ],
             primary_button_title: "Xong",
