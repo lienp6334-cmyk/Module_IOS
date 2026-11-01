@@ -37,7 +37,7 @@ var phamnam09 = {
 const match = Object.keys(mapping).find(e => ua.includes(e));
 if (match) {
   let [e, s] = mapping[match];
-  s ? (locketGold.product_identifier = s, obj.subscriber.subscriptions[s] = phamnam09) : obj.subscriber.subscriptions["locket_1600_1y"] = duyvinh09, obj.subscriber.entitlements[e] = locketGold
+  s ? (locketGold.product_identifier = s, obj.subscriber.subscriptions[s] = phamnam09) : obj.subscriber.subscriptions["locket_1600_1y"] = phamnam09, obj.subscriber.entitlements[e] = locketGold
 } else obj.subscriber.subscriptions["locket_1600_1y"] = phamnam09, obj.subscriber.entitlements.pro = locketGold;
 $done({
   body: JSON.stringify(obj)
